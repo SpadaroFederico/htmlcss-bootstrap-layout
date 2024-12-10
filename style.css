@@ -1,39 +1,11 @@
-[class^='container text-center']{
-    background-color: aqua;
-    border: 1px solid black;
-    min-height: 80vh;
-}
+
 
 [class^='row']{
     background-color: red;
     border: 1px solid black;
-    min-height: 170px;
+    min-height: 180px;
+    margin-top: 20px;
 }
 
-[class^='col']{
-    background-color: rgb(17, 0, 255);
-    border: 1px solid black;
-    
-}
 
-/* color column row1*/
-[class^='col-md-5']{
-    background-color: #FFFFFF;
-}
 
-[class^='col-md-7']{
-    background-color: #6C757D;
-}
-
-/* color column row2*/
-[class^='col-6 col-md-4']{
-    background-color: #198754;
-}
-
-[class^='col-6 col-md-4']{
-    background-color: #0D6EFD;
-}
-
-[class^='col-md-4']{
-    background-color: #DC3545;
-}
